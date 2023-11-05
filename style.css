@@ -138,6 +138,7 @@ button{
     body{
         padding: 10px;
         overflow: scroll;
+        height: 120vh; 
     }
     main{
         flex-direction: column;
